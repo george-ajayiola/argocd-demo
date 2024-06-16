@@ -1,1 +1,1 @@
-# Learning  how to deploy argocd on kubernetes using the GITOPS approach
+# Learning  how to deploy apps on kubernetes using the GITOPS approach (argocd)
